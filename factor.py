@@ -5,7 +5,7 @@ Author : Anubha Bharti
 
 
 def factor(n):
-    """Return factor of number
+    """Return factor of number.
 
     :param n: int, number to be factorized
     :return: tuple, factors

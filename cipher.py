@@ -6,7 +6,7 @@ Author : Anubha Bharti
 
 
 def cipher(p, q):
-    """Return cipher
+    """Return cipher.
 
     :param p: int, number to be ciphered
     :param q: int, number to be ciphered

@@ -6,7 +6,7 @@ Author : Anubha Bharti
 
 
 def sorting_list(in_list):
-    """Sort space delimted string
+    """Sort space delimited string.
 
     :param in_list: list, space delimited string
     :return: list, sorted list
